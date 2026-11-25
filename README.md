@@ -1,8 +1,8 @@
 # Yağmur Taşdemiroğlu
 
 I’m a biomedical researcher with a background in cardiovascular science. My
-graduate work focused on how a cardioprotective peptide breaks down in plasma
-and also included *ex vivo* cardiac physiology. These days, I’m working with a
+graduate work focused on the *in vitro* pharmacokinetics of a small therapeutic peptide.
+It also included *ex vivo* cardiac physiology. These days, I’m working with a
 different kind of cardiovascular data as I learn to analyze RNA-seq and build
 workflows using public heart failure datasets.
 Outside of research, I get humbled by Elden Ring bosses, hang out with my cat, or practice Korean.\
